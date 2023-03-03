@@ -28,6 +28,6 @@ jobs:
 
       - uses: actions/upload-artifact@v3
         with:
-          name: remark_lint-report
+          name: remark-lint-report
           path: public/
 
